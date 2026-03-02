@@ -19,6 +19,6 @@
 
 ### [실습 파일 및 배포 코드]()
 <ul>
-<li>`실습 미션 열기 : 이후 배포 예정  </li>
+<li>`실습 미션 열기: "hello world" 출력 (수업 후 배포)  </li>
 <li> <a href = 'http://portal.mju.ac.kr'>구글 클래스룸 바로가기</a></li>  
 </ul>
