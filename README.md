@@ -7,8 +7,8 @@
 
 ### [파이썬 소개]()
 <ul>
-<li>**특징:** 인터프리터 언어, 객체지향 언어 </li>
-<li>**통합 개발 환경:** IDLE, Colab, Jupyter Notebook 등 </li>  
+<li><b>특징:</b> 인터프리터 언어, 객체지향 언어 </li>
+<li><b>통합 개발 환경:</b> IDLE, Colab, Jupyter Notebook 등 </li>  
 </ul>
 
 ### [실습 환경 세팅 (Google Colab)]()
