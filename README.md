@@ -1,6 +1,5 @@
 # 파이썬 프로그래밍 입문 - 화 15:00
 산업경영공학과 학생 대상 파이썬 입문 수업시간의 요약 및 코드 배포를 위한 학습 공간입니다. 
-
 <hr size = "10px", width ="500px">
 
 ## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/README.md)
