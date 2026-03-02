@@ -20,5 +20,5 @@
 ### [실습 파일 및 배포 코드]()
 <ul>
 <li>`실습 미션 열기 : 이후 배포 예정  </li>
-<li> [구글 클래스룸 바로가기] (http://portal.mju.ac.kr)</li>  
+<li> [구글 클래스룸 바로가기](http://portal.mju.ac.kr)</li>  
 </ul>
