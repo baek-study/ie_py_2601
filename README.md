@@ -4,13 +4,13 @@
 
 ## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 
-### [파이썬 소개](https://github.com/baek-study/ie_py_2601/blob/main/README.md)
+### [파이썬 소개](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
 <li><b>특징:</b> 인터프리터 언어, 객체지향 언어 </li>
 <li><b>통합 개발 환경:</b> IDLE, Colab, Jupyter Notebook 등 </li>  
 </ul>
 
-### [실습 환경 세팅 (Google Colab)](https://github.com/baek-study/ie_py_2601/blob/main/README.md)
+### [실습 환경 세팅 (Google Colab)](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
 <li>구글 코랩(Colab): 웹 브라우저 바로 코드를 작성하고 실행 </li>
 <li>구글 드라이브와 연동되어 실습 파일(사본) 자동 저장</li>  
