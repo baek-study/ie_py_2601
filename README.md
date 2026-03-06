@@ -2,7 +2,7 @@
 산업경영공학과 학생 대상 파이썬 입문 수업시간의 요약 및 코드 배포를 위한 학습 공간입니다. 
 <hr size = "10px", width ="500px">
 
-## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/source/week1_mju.ipynb)
+## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 
 ### [파이썬 소개](https://github.com/baek-study/ie_py_2601/blob/main/README.md)
 <ul>
@@ -16,7 +16,7 @@
 <li>구글 드라이브와 연동되어 실습 파일(사본) 자동 저장</li>  
 </ul>
 
-### [💻실습 파일 및 배포 코드]((https://github.com/baek-study/ie_py_2601/source/week1_mju.ipynb)
+### [💻실습 파일 및 배포 코드](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
 <li>`1주차 실습: "hello world" 출력 </li>
 </ul>
