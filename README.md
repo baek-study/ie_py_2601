@@ -18,5 +18,5 @@
 
 ### [💻실습 파일 및 배포 코드](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
-<li>`1주차 실습: "hello world" 출력 </li>
+<li>1주차 실습: "hello world" 출력 </li>
 </ul>
