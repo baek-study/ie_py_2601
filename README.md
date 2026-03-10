@@ -2,9 +2,9 @@
 산업경영공학과 학생 대상 파이썬 입문 수업시간의 요약 및 코드 배포를 위한 학습 공간입니다. 
 <hr size = "10px", width ="500px">
 
-## [2주차 강의&nbsp;-&nbsp;변수와 자료형]()
+## [2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 
-### [변수(variable)]()
+### [변수(variable)](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
   <li><b>변수</b> : 데이터를 저장하는 공간 </li>
   <li>이름 규칙 : 알파벳, 숫자, 밑줄(_)로 구성 <br>
@@ -14,7 +14,7 @@
     </li> 
 </ul>
 
-### [자료형(Data Type)]()
+### [자료형(Data Type)](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
   <li> 정수형(<b>int</b>): 123</li>
   <li> 실수형(<b>float</b>): 3.14</li>
@@ -23,7 +23,7 @@
   <li> 자료형 확인 함수: <b>type</b>(1234) </li>
 </ul>
 
-### [표준출력함수 print()]()
+### [표준출력함수 print()](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
     <li> 문자열 출력: print('hello') </li>
     <li> 다양한자료형: print(1004); print(3.14);</li>
@@ -32,7 +32,7 @@
   </li>
 </ul>
 
-### [산술 연산자]()
+### [산술 연산자](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
   <li> + - * / (사칙연산) <br> 
   - 나눗셈 결과는 실수 &ensp; ex) 2/2 = 1.0 </li>
