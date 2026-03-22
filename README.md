@@ -2,6 +2,37 @@
 산업경영공학과 학생 대상 파이썬 입문 수업시간의 요약 및 코드 배포를 위한 학습 공간입니다. 
 <hr size = "10px", width ="500px">
 
+## [3주차 강의&nbsp;-&nbsp;입력과 형변환]()
+
+### [표준 입력함수 input()&형변환]()
+<ul>
+   <li>키보드를 통해 입력한 값을 '문자열'로 반환</li>
+    <li> msg = input('안내메시지')&ensp;#문자열로 반환</li>
+    <li> age = int(msg)&ensp;#정수변환</li>
+    <li> fage = float(msg)&ensp;#실수변환</li>
+</ul>
+
+### [대압/복합대입 연산자](h)
+<ul>
+  <li> x = 10 # 왼쪽 변수공간에 오른쪽 값 할당 </li>
+  <li>다중 할당 : x=y=z=1 <br>
+    -  x,y = 1, 2 # 여러 개 값을 각 변수에
+  </li>
+  <li>자기 할당 : x = x + 3  </li>
+  <li>복합대입 : x += 3 &ensp;# x=x+3 <br>
+  - 할당과 산술/기타 연산자 결합 
+  </li>
+</ul>
+
+### [서식 : f-문자열]()
+<ul>
+  <li> f'..{표현식}..' # 중괄호 사용  <br>
+    ex) print(f'hi. {name}, age {25}') </li>
+  <li> 형식지정: 정수 d, 실수 f, 문자 s </li> 
+</ul>
+<br>
+
+
 ## [2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 
 ### [변수(variable)](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
