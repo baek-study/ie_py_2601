@@ -2,7 +2,7 @@
 산업경영공학과 학생 대상 파이썬 입문 수업시간의 요약 및 코드 배포를 위한 학습 공간입니다. 
 <hr size = "10px", width ="500px">
 
-## [4주차 강의&nbsp;-&nbsp;리스트]()
+## [📋4주차 강의&nbsp;-&nbsp;리스트]()
 
 ### [리스트 기본 구조]()
 <ul>
@@ -37,7 +37,7 @@
 </ul>
 <br>
 
-## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
+## [🐍1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 
 ### [파이썬 소개](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
@@ -51,14 +51,14 @@
 <li>구글 드라이브와 연동되어 실습 파일(사본) 자동 저장</li>  
 </ul>
 
-### [💻실습 파일 및 배포 코드](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
+### [실습 파일 및 배포 코드](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 <ul>
 <li>1주차 실습: "hello world" 출력 </li>
 </ul>
 
 <br>
 
-## [2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
+## [📦2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 
 ### [변수(variable)](https://github.com/baek-study/ie_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
@@ -99,7 +99,7 @@
 
 <br>
 
-## [3주차 강의&nbsp;-&nbsp;입력과 형변환]()
+## [🔄3주차 강의&nbsp;-&nbsp;입력과 형변환]()
 
 ### [표준 입력함수 input()&형변환]()
 <ul>
