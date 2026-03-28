@@ -8,7 +8,8 @@
 <ul>
 <li> 여러 데이터를 하나로 묶어 순번에 따라 저장  </li>   
 <li> temps=[28, 31, 33, 35, 27] # 대괄호사용 </li>
-<li> exlist=['maru', 20, 180.5] # 여러 자료형 사용 </li>
+<li> 양의 인덱스: 첫요소부터 0부터 시작 </li>
+<li> 음의 인덱스: 끝요소부터 0-1터 시작 </li>
 </ul>
 
 ### [리스트 인덱싱&슬라이싱]()
@@ -34,7 +35,7 @@
   <li> 삭제 : t = temps.pop(0)   </li>  
   <li> 검색 : temps.index(31) </li>
 </ul>
-
+<br>
 
 ## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/ie_py_2601/blob/main/source/week1_exam.ipynb)
 
