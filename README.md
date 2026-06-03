@@ -185,7 +185,6 @@
     &ensp;&nbsp;print('C') <br>
   </li>
 </ul>
-  
 <br>
 
 ## [🔁7주차 강의&nbsp;-&nbsp;반복문-for](https://github.com/baek-study/ie_py_2601/blob/main/source/week7_exam.ipynb)
@@ -349,6 +348,8 @@
   - 함수 내에서 변경시: <b>global</b> 키워드 <br>
 </li>
 </ul>
+
+<br>
 
 ## [🗂️13주차 강의&nbsp;-&nbsp;딕셔너리](https://github.com/baek-study/ie_py_2601/blob/main/source/week13_exam.ipynb)
 
