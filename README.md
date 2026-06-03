@@ -66,9 +66,9 @@
 
 <br>
 
-## [🔄3주차 강의&nbsp;-&nbsp;입력과 형변환]()
+## [🔄3주차 강의&nbsp;-&nbsp;입력과 형변환](https://github.com/baek-study/ie_py_2601/blob/main/source/week3_exam.ipynb)
 
-### [🔹 표준 입력함수 input()&형변환]()
+### [🔹 표준 입력함수 input()&형변환](https://github.com/baek-study/ie_py_2601/blob/main/source/week3_exam.ipynb)
 <ul>
    <li>키보드를 통해 입력한 값을 '문자열'로 반환</li>
     <li> msg = input('안내메시지')&ensp;#문자열로 반환</li>
@@ -76,7 +76,7 @@
     <li> fage = float(msg)&ensp;#실수변환</li>
 </ul>
 
-### [🔹 대압/복합대입 연산자](h)
+### [🔹 대압/복합대입 연산자](https://github.com/baek-study/ie_py_2601/blob/main/source/week3_exam.ipynb)
 <ul>
   <li> x = 10 # 왼쪽 변수공간에 오른쪽 값 할당 </li>
   <li>다중 할당 : x=y=z=1 <br>
@@ -88,7 +88,7 @@
   </li>
 </ul>
 
-### [🔹 서식 : f-문자열]()
+### [🔹 서식 : f-문자열](https://github.com/baek-study/ie_py_2601/blob/main/source/week3_exam.ipynb)
 <ul>
   <li> f'..{표현식}..' # 중괄호 사용  <br>
     ex) print(f'hi. {name}, age {25}') </li>
@@ -96,9 +96,9 @@
 </ul>
 <br>
 
-## [📋4주차 강의&nbsp;-&nbsp;리스트]()
+## [📋4주차 강의&nbsp;-&nbsp;리스트](https://github.com/baek-study/ie_py_2601/blob/main/source/week4_exam.ipynb)
 
-### [🔹 리스트 기본 구조]()
+### [🔹 리스트 기본 구조](https://github.com/baek-study/ie_py_2601/blob/main/source/week4_exam.ipynb)
 <ul>
 <li> 여러 데이터를 하나로 묶어 순번에 따라 저장  </li>   
 <li> temps=[28, 31, 33, 35, 27] # 대괄호사용 </li>
@@ -106,7 +106,7 @@
 <li> 음의 인덱스: 끝요소부터 0-1터 시작 </li>
 </ul>
 
-### [🔹 리스트 인덱싱&슬라이싱]()
+### [🔹 리스트 인덱싱&슬라이싱](https://github.com/baek-study/ie_py_2601/blob/main/source/week4_exam.ipynb)
 <ul>
 <li>인덱싱: temps[3], temps[-1]  </li>
 <li>슬라이싱: temps[2:5]  &ensp;#시작에서 끝-1 까지 </li>
@@ -116,7 +116,7 @@
 <li>복사 : list2 = list(temps) &ensp;# temps[:] 새로운 리스트 </li>  
 </ul>
 
-### [🔹 리스트 연산&메소드]()
+### [🔹 리스트 연산&메소드](https://github.com/baek-study/ie_py_2601/blob/main/source/week4_exam.ipynb)
 <ul>
  <li> 연산 (+, *, in, == )<br>
    - 결합 : [1,2]+[3,4,5] <br>
@@ -131,9 +131,9 @@
 </ul>
 <br>
 
-## [🔀5주차 강의&nbsp;-&nbsp;조건문]()
+## [🔀5주차 강의&nbsp;-&nbsp;조건문](https://github.com/baek-study/ie_py_2601/blob/main/source/week5_exam.ipynb)
 
-### [🔹관계 연산자 & 논리연산자]()
+### [🔹관계 연산자 & 논리연산자](https://github.com/baek-study/ie_py_2601/blob/main/source/week5_exam.ipynb)
 <ul>
 <li><b>관계(비교)연산자</b> <br>
   &ensp;  ==(같다) != (같지않다) <br>
@@ -145,14 +145,14 @@
 </ul>
 
 
-### [🔹단순 if(if~ - 선택 명령 1개)]()
+### [🔹단순 if(if~ - 선택 명령 1개)](https://github.com/baek-study/ie_py_2601/blob/main/source/week5_exam.ipynb)
 <ul>    
   <li><b>if</b> score >= 60 <b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
   </li>
 </ul>
 
-### [🔹선택 if(if~else - 선택 명령 2개)]()
+### [🔹선택 if(if~else - 선택 명령 2개)](https://github.com/baek-study/ie_py_2601/blob/main/source/week5_exam.ipynb)
 <ul>    
   <li><b>if</b> score >= 60 <b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
@@ -162,9 +162,9 @@
 </ul>
 <br>
 
-## [🚦6주차 강의&nbsp;-&nbsp;다중조건문]()
+## [🚦6주차 강의&nbsp;-&nbsp;다중조건문](https://github.com/baek-study/ie_py_2601/blob/main/source/week6_exam.ipynb)
 
-### [🔹중첩 if 문 - if 안에 if]()  
+### [🔹중첩 if 문 - if 안에 if](https://github.com/baek-study/ie_py_2601/blob/main/source/week6_exam.ipynb)  
 <ul>
   <li><b>if</b> score >= 60<b>:</b>&ensp;  <br>
     &ensp;&ensp;&nbsp;print('pass') <br>
@@ -175,7 +175,7 @@
   </li>
 </ul>
 
-### [🔹연속 if 문: if ~ elif ~ else]()
+### [🔹연속 if 문: if ~ elif ~ else](https://github.com/baek-study/ie_py_2601/blob/main/source/week6_exam.ipynb)
 <ul>
   <li><b>if</b> score >= 90<b>:</b>&ensp;  <br>
     &ensp;&nbsp;print('A') <br>
@@ -188,9 +188,9 @@
   
 <br>
 
-## [🔁7주차 강의&nbsp;-&nbsp;반복문-for]()
+## [🔁7주차 강의&nbsp;-&nbsp;반복문-for](https://github.com/baek-study/ie_py_2601/blob/main/source/week7_exam.ipynb)
 
-### [🔹for 기본 순회]()
+### [🔹for 기본 순회](https://github.com/baek-study/ie_py_2601/blob/main/source/week7_exam.ipynb)
 <ul>
   <li><b>for</b> ch <b> in 군집(반복 가능한 객체) : </b> <br>
   &ensp;&ensp;문장</li>
@@ -199,7 +199,7 @@
   </li>
 </ul>
 
-### [🔹for range]()
+### [🔹for range](https://github.com/baek-study/ie_py_2601/blob/main/source/week7_exam.ipynb)
 <ul>
   <li><b>for</b> i <b> in</b> range(0,5,1):&ensp; #range 객체 <br>
   &ensp;&ensp;print(f'{i=}')</li>
@@ -208,7 +208,7 @@
   - range(0, 5, 1)&ensp; # 0, 1, 2, 3, 4 </li>
 </ul>
 
-### [🔹보조제어 break, continue]() 
+### [🔹보조제어 break, continue](https://github.com/baek-study/ie_py_2601/blob/main/source/week7_exam.ipynb) 
 <ul>
    <li> break : 반복문 탈출 </li>
    <li>continue : 반복 다시 시작 </li>
@@ -217,8 +217,8 @@
 <br>
 
 
-## [⏳9주차 강의&nbsp;-&nbsp;반복문-while]()
-### [🔹while 문]()
+## [⏳9주차 강의&nbsp;-&nbsp;반복문-while](https://github.com/baek-study/ie_py_2601/blob/main/source/week9_exam.ipynb)
+### [🔹while 문](https://github.com/baek-study/ie_py_2601/blob/main/source/week9_exam.ipynb)
 <ul>
   <li>조건 반복 1 : start, 반복조건(끝), step<br>
   count = 0 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;# start<br>
@@ -233,7 +233,7 @@
   </li>
 </ul>
    
-### [🔹무한 루프]()
+### [🔹무한 루프](https://github.com/baek-study/ie_py_2601/blob/main/source/week9_exam.ipynb)
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장<br>
@@ -242,7 +242,7 @@
 </li>
 </ul>
 
-### [🔹중첩 for]()
+### [🔹중첩 for](https://github.com/baek-study/ie_py_2601/blob/main/source/week9_exam.ipynb)
 <ul>
 <li><b>for</b> i <b>in</b> range(1, 9)<b>:</b> <br>
   &ensp;&ensp; <b>for</b> j <b>in</b> range(1, 9)<b>:</b><br>
@@ -252,9 +252,9 @@
 
 <br>
 
-## [🔤10주차 강의&nbsp;-&nbsp;문자열]()
+## [🔤10주차 강의&nbsp;-&nbsp;문자열](https://github.com/baek-study/ie_py_2601/blob/main/source/week10_exam.ipynb)
 
-### [🔹문자열 기본구조]()
+### [🔹문자열 기본구조](https://github.com/baek-study/ie_py_2601/blob/main/source/week10_exam.ipynb)
 <ul>
   <li> 생성 : msg = '안녕하세요' <br>
     - 인덱스: 첫문자에서 0부터 시작 <br>
@@ -266,7 +266,7 @@
 </ul>
 
 
-### [🔹서식 : f-문자열]()
+### [🔹서식 : f-문자열](https://github.com/baek-study/ie_py_2601/blob/main/source/week10_exam.ipynb)
 <ul>
   <li> f'..{표현식}..' # 중괄호 사용  <br>
      ex) print(f'hi. {name}, age {25}') </li>
@@ -275,7 +275,7 @@
   <li> 정밀도: {3.145:.2f} &ensp; #소수점 몇자리 </li>  
 </ul>
 
-### [🔹문자열 연산/함수]()
+### [🔹문자열 연산/함수](https://github.com/baek-study/ie_py_2601/blob/main/source/week10_exam.ipynb)
 <ul>
   <li> 연산 (+, *, in, == )<br>
     - 'hi'+'mju' : 문자열 결합<br>
@@ -291,7 +291,7 @@
 
 </ul>
 
-### [🔹2차원 리스트]()
+### [🔹2차원 리스트](https://github.com/baek-study/ie_py_2601/blob/main/source/week10_exam.ipynb)
 <ul> 
 <li>1차원 리스트를 요소로 가지는 리스트</li> 
 <li>s = [ <br>
@@ -303,10 +303,10 @@
 
 <br>
 
-## [🛠️11주차 강의&nbsp;-&nbsp;함수 기본]()
+## [🛠️11주차 강의&nbsp;-&nbsp;함수 기본](https://github.com/baek-study/ie_py_2601/blob/main/source/week11_exam.ipynb)
 
 
-### [🔹함수 정의&함수 호출]()
+### [🔹함수 정의&함수 호출](https://github.com/baek-study/ie_py_2601/blob/main/source/week11_exam.ipynb)
 <ul>
 <li>함수 정의 <br>
   &nbsp; <b>def</b> get_area(radius) <b>:</b> <br>
@@ -320,7 +320,7 @@
 </li>
 </ul>
 
-### [🔹매개변수&반환값](b)
+### [🔹매개변수&반환값](https://github.com/baek-study/ie_py_2601/blob/main/source/week11_exam.ipynb)
 <ul>
   <li><b>매개변수:</b> 함수 정의시 값을 전달받는 변수  <br>
   <b>인수:</b> 함수 호출시 실제로 전달되는 값    </li>
@@ -331,9 +331,9 @@
 <br>
 
 
-## [🚀12주차 강의&nbsp;-&nbsp;함수 심화]()
+## [🚀12주차 강의&nbsp;-&nbsp;함수 심화](https://github.com/baek-study/ie_py_2601/blob/main/source/week12_exam.ipynb)
 
-### [🔹인수유형 ]()
+### [🔹인수유형 ](https://github.com/baek-study/ie_py_2601/blob/main/source/week12_exam.ipynb)
 <ul>
 <li> 위치 인수 : 순서대로 값을 전달 </li>  
 <li> 기본값 인수 : 함수 정의시 기본값이 설정</li>
@@ -342,17 +342,17 @@
 </li>
 </ul>
 
-### [🔹지역변수vs전역변수]()
+### [🔹지역변수vs전역변수](https://github.com/baek-study/ie_py_2601/blob/main/source/week12_exam.ipynb)
 <ul>
 <li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수</li>
-<li> <b>전역변수</b> : 함수<b>외</b>에서 생성된 변수
+<li> <b>전역변수</b> : 함수<b>외</b>에서 생성된 변수 <br>
   - 함수 내에서 변경시: <b>global</b> 키워드 <br>
 </li>
 </ul>
 
-## [🗂️13주차 강의&nbsp;-&nbsp;딕셔너리]()
+## [🗂️13주차 강의&nbsp;-&nbsp;딕셔너리](https://github.com/baek-study/ie_py_2601/blob/main/source/week13_exam.ipynb)
 
-### [🔹딕셔너리 기본 구조]()
+### [🔹딕셔너리 기본 구조](https://github.com/baek-study/ie_py_2601/blob/main/source/week13_exam.ipynb)
 <ul>
 <li>의미: 키와 값 쌍, { } 사용, 순서 X </li>
 <li>생성: d=['a':'apple', 'b':'banana']  </li>
@@ -363,14 +363,14 @@
 
 </ul>
 
-### [🔹딕셔너리 메소드]()
+### [🔹딕셔너리 메소드](https://github.com/baek-study/ie_py_2601/blob/main/source/week13_exam.ipynb)
 <ul>
 <li>접근: d.get('a') </li>
 <li>삭제: value = d.pop('a)  </li>
 <li>목록: d.keys(), d.values(), d.items()  </li>
 </ul>
 
-### [🔹딕셔너리 반복]()
+### [🔹딕셔너리 반복](https://github.com/baek-study/ie_py_2601/blob/main/source/week13_exam.ipynb)
 <ul>
 <li><b>for</b> key <b>in</b> d<b>:</b> #d.keys() <br>
   &ensp;print(key, key[value])<br>
@@ -381,9 +381,9 @@
 </ul>
 <br>
 
-## [📁14주차 강의&nbsp;-&nbsp;파일입출]()
+## [📁14주차 강의&nbsp;-&nbsp;파일입출](https://github.com/baek-study/ie_py_2601/blob/main/source/week14_exam.ipynb)
 
-### [🔹모듈(module)]()
+### [🔹모듈(module)](https://github.com/baek-study/ie_py_2601/blob/main/source/week14_exam.ipyn)
 <ul>
 <li> 연관된 함수와 변수를 모아 놓은 파일(.py) </li>
 <li> 모듈 가져오는 방법<br>
@@ -396,7 +396,7 @@
 </ul>
 
 
-### [🔹파일처리]()
+### [🔹파일처리](https://github.com/baek-study/ie_py_2601/blob/main/source/week14_exam.ipyn)
 <ul>
 <li><b>with</b> open('file_name', 'r') <b>as</b> f<b>:</b> <br>
   &ensp; 파일 열고, 닫는 안전한 방법<br>
@@ -418,7 +418,7 @@
 </ul>
 
 
-### [🔹예외처리]()
+### [🔹예외처리](https://github.com/baek-study/ie_py_2601/blob/main/source/week14_exam.ipyn)
 <ul>
 <li> try: ~  <br>
 except(오류): ~ </li>
