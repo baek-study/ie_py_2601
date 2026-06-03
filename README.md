@@ -283,11 +283,11 @@
     - 'm' in 'mju' : 멤버쉽<br>
     - 'hi' =='mju' : 문자열 비교<br>
      </li> 
-  <li> len(msg) : 문자열 길이 함수 </li>  
-  <li> msg.split(구분자) : 문자열 분리 메소드 </li>  
-  <li> 구분자.split(문자열리스트) : 결합 메소드 </li>  
-  <li> msg.find('안') : 문자열 발견 위치 </li>  
-  <li> msg.count('안') : 문자열 발견 횟수</li>  
+  <li> 길이 : len(msg)</li>  
+  <li> 분리 : msg.split(구분자) </li>  
+  <li> 결합 : 구분자.split(문자열리스트)</li>  
+  <li> 찾기 : msg.find('안') </li>  
+  <li> 발견횟수 : msg.count('안') </li>  
 
 </ul>
 
@@ -335,7 +335,7 @@
 
 ### [🔹인수유형 ]()
 <ul>
-<li>  위치 인수 : 순서대로 값을 전달 </li>  
+<li> 위치 인수 : 순서대로 값을 전달 </li>  
 <li> 기본값 인수 : 함수 정의시 기본값이 설정</li>
 <li> 키워드 인수 : 함수 호출시 '키워드 = 값' </li>
 <li> 가변 인수 * : 인수의 갯수가 정해지지 않음</li>
@@ -344,12 +344,9 @@
 
 ### [🔹지역변수vs전역변수]()
 <ul>
-<li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
-  &nbsp; - 함수내에서만 사용 가능
-</li>
-<li> <b>전역변수</b> : 함수<b>외</b>에서 생성된 변수 <br>
-  &nbsp; - 모든 함수에서 사용 가능<br>
-  &nbsp; - 함수 내에서 변경시: <b>global</b> 키워드 <br>
+<li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수</li>
+<li> <b>전역변수</b> : 함수<b>외</b>에서 생성된 변수
+  - 함수 내에서 변경시: <b>global</b> 키워드 <br>
 </li>
 </ul>
 
@@ -395,9 +392,7 @@
 - <b>from</b> random <b>import</b> randint  <br>
 - <b>from</b> random <b>import</b> randint <b>as</b> rdi <br>
 - <b>from</b> random <b>import *</b>   <br>
-<li> 모듈 종류 <br>
-- 사용자 정의, 표준 모듈, 외부 모듈 <br>
-- 사용자 정의 : 직접만든 파일 <br> ex) calc_area.py
+</li>
 </ul>
 
 
