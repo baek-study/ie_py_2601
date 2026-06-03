@@ -133,38 +133,26 @@
 
 ## [📋5주차 강의&nbsp;-&nbsp;조건문]()
 
-### [관계 연산자]()
+### [🔹관계 연산자 & 논리연산자]()
 <ul>
-  <li> == != (동등)  <br>
-  - ==(같다), !=(같지않다)</li>
-  <li>  > < >= <= (비교)<br>
-  - >=, <=에서 =가 항상 뒤 </li>
+<li><b>관계(비교)연산자</b> <br>
+  &ensp;  ==(같다) != (같지않다) <br>
+  &ensp;  > < >= <=  ( =가 항상 뒤)  <br>
+</li>  
+<li><b>논리 연산자</b> <br>
+  &ensp;  and, or, not <br>
+</li>  
 </ul>
 
-### [논리 연산자]()
-<ul>
-  <li>A and B : 둘 다 참이어야 참  </li>
-  <li>A or B : 둘 중 하나만 참이어도 참  </li>
-  <li>not A : 참이면 거짓, 거짓이면 참  </li>
-</ul>
 
-### [제어문]()
-<ul>    
-  <li>제어 구조 : 순차(직진), 조건(갈림길), 반복(로터리)</li>
-  <li>파이썬 제어 포맷 : 헤더 + 스위트<br>
-    제어키워드 제어조건 <b>:(콜론)</b>  &ensp;&nbsp; #헤더<br>
-    &ensp;&ensp;&ensp;&ensp;들여쓰기된_문장  &ensp;&nbsp;  # 스위트 
-  </li>
-</ul>
-
-### [단순 if(if~ - 선택 명령 1개)]()
+### [🔹단순 if(if~ - 선택 명령 1개)]()
 <ul>    
   <li><b>if</b> score >= 60 <b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
   </li>
 </ul>
 
-### [선택 if(if~else - 선택 명령 2개)]()
+### [🔹선택 if(if~else - 선택 명령 2개)]()
 <ul>    
   <li><b>if</b> score >= 60 <b>:</b>&ensp;<br>
     &ensp;&nbsp;  print('pass') <br>
@@ -172,11 +160,11 @@
     &ensp;&nbsp;  print('fail')
   </li>
 </ul>
-
+<br>
 
 ## [📋6주차 강의&nbsp;-&nbsp;다중조건문]()
 
-### [중첩 if 문 - if 안에 if]()  
+### [🔹중첩 if 문 - if 안에 if]()  
 <ul>
   <li><b>if</b> score >= 60<b>:</b>&ensp;  <br>
     &ensp;&ensp;&nbsp;print('pass') <br>
@@ -187,7 +175,7 @@
   </li>
 </ul>
 
-### [연속 if 문: if ~ elif ~ else]()
+### [🔹연속 if 문: if ~ elif ~ else]()
 <ul>
   <li><b>if</b> score >= 90<b>:</b>&ensp;  <br>
     &ensp;&nbsp;print('A') <br>
@@ -202,7 +190,7 @@
 
 ## [📋7주차 강의&nbsp;-&nbsp;반복문-for]()
 
-### [for 기본 순회]()
+### [🔹for 기본 순회]()
 <ul>
   <li><b>for</b> ch <b> in 군집(반복 가능한 객체) : </b> <br>
   &ensp;&ensp;문장</li>
@@ -211,7 +199,7 @@
   </li>
 </ul>
 
-### [for range]()
+### [🔹for range]()
 <ul>
   <li><b>for</b> i <b> in</b> range(0,5,1):&ensp; #range 객체 <br>
   &ensp;&ensp;print(f'{i=}')</li>
@@ -220,7 +208,7 @@
   - range(0, 5, 1)&ensp; # 0, 1, 2, 3, 4 </li>
 </ul>
 
-### [보조제어 break, continue]() 
+### [🔹보조제어 break, continue]() 
 <ul>
    <li> break : 반복문 탈출 </li>
    <li>continue : 반복 다시 시작 </li>
@@ -230,7 +218,7 @@
 
 
 ## [📋9주차 강의&nbsp;-&nbsp;반복문-while]()
-### [while 문]()
+### [🔹while 문]()
 <ul>
   <li>조건 반복 1 : start, 반복조건(끝), step<br>
   count = 0 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;# start<br>
@@ -245,7 +233,7 @@
   </li>
 </ul>
    
-### [무한 루프]()
+### [🔹무한 루프]()
 <ul>
   <li> <b>while True :</b> #  무한 루프<br>
   &nbsp; &nbsp; 문장<br>
@@ -254,7 +242,7 @@
 </li>
 </ul>
 
-### [중첩 for]()
+### [🔹중첩 for]()
 <ul>
 <li><b>for</b> i <b>in</b> range(1, 9)<b>:</b> <br>
   &ensp;&ensp; <b>for</b> j <b>in</b> range(1, 9)<b>:</b><br>
@@ -266,7 +254,7 @@
 
 ## [📋10주차 강의&nbsp;-&nbsp;문자열]()
 
-### [문자열 기본구조]()
+### [🔹문자열 기본구조]()
 <ul>
   <li> 생성 : msg = '안녕하세요' <br>
   - 인덱스: 첫문자에서 0부터 시작 <br>
@@ -278,18 +266,16 @@
 </ul>
 
 
-### [서식 : f-문자열]()
+### [🔹서식 : f-문자열]()
 <ul>
   <li> f'..{표현식}..' # 중괄호 사용  <br>
     ex) print(f'hi. {name}, age {25}') </li>
   <li> 형식지정: 정수 d, 실수 f, 문자 s </li>
   <li> 자릿수: {25:5d} &ensp; #다섯자리 확보 </li>
-  <li> 정밀도: {3.145:.2f} &ensp; #소수점 몇자리 <br>
-    ex) print(f'hi.{name:10s}, age {25:5d}, {PI:.2f}’)
-  </li>  
+  <li> 정밀도: {3.145:.2f} &ensp; #소수점 몇자리 </li>  
 </ul>
 
-### [문자열 연산/함수]()
+### [🔹문자열 연산/함수]()
 <ul>
   <li> 연산 (+, *, in, == )<br>
    - 'hi'+'mju' : 문자열 결합<br>
@@ -305,7 +291,7 @@
 
 </ul>
 
-### [2차원 리스트](https://github.com/baek-study/wed_py25/blob/main/source/week5_mju.ipynb)
+### [🔹2차원 리스트]()
 <ul> 
 <li>1차원 리스트를 요소로 가지는 리스트</li> 
 <li>s = [ <br>
@@ -315,11 +301,12 @@
 <li>s[1][2] &ensp;# 이름[행][열] - 8 </li>   
 </ul>
 
+<br>
 
 ## [📋11주차 강의&nbsp;-&nbsp;함수 기본]()
 
 
-### [함수 정의&함수 호출]()
+### [🔹함수 정의&함수 호출]()
 <ul>
 <li>함수 정의 <br>
   &nbsp; <b>def</b> get_area(radius) <b>:</b> <br>
@@ -328,12 +315,12 @@
   <br>
 </li>  
 <li>함수 호출 <br>
-   &nbsp; result = get_area(10)
+   &nbsp; value = get_area(10)
    <br>
 </li>
 </ul>
 
-### [매개변수&반환값](b)
+### [🔹매개변수&반환값](b)
 <ul>
   <li><b>매개변수:</b> 함수 정의시 값을 전달받는 변수  <br>
   <b>인수:</b> 함수 호출시 실제로 전달되는 값    </li>
@@ -346,26 +333,16 @@
 
 ## [📋12주차 강의&nbsp;-&nbsp;함수 심화]()
 
-### [인수유형 ]()
+### [🔹인수유형 ]()
 <ul>
 <li>  위치 인수 : 순서대로 값을 전달 </li>  
 <li> 기본값 인수 : 함수 정의시 기본값이 설정</li>
 <li> 키워드 인수 : 함수 호출시 '키워드 = 값' </li>
-<li> 가변 인수 : 인수의 갯수가 정해지지 않음</li>
+<li> 가변 인수 * : 인수의 갯수가 정해지지 않음</li>
 </li>
 </ul>
 
-### [함수와 리스트 ]()
-<ul>
-  <li> 매개변수로 리스트 :  </li>
-  - def func1(para_list) :<br>
-  - 매개변수와 호출시 인수리스트는 동일
-  <li>리턴형으로 리스트 :</li>
-  - lst = create_list() <br>
-  - 함수 내 리턴 리스트와 결과변수 리스트는 동일
-</ul>
-
-### [지역변수vs전역변수]()
+### [🔹지역변수vs전역변수]()
 <ul>
 <li>  <b>지역변수</b> - 함수<b>내</b>에서 생성된 변수 <br>
   &nbsp; - 함수내에서만 사용 가능
@@ -378,7 +355,7 @@
 
 ## [📋13주차 강의&nbsp;-&nbsp;딕셔너리]()
 
-### [딕셔너리 기본 구조]()
+### [🔹딕셔너리 기본 구조]()
 <ul>
 <li>의미: 키와 값 쌍, { } 사용, 순서 X </li>
 <li>생성: d=['a':'apple', 'b':'banana']  </li>
@@ -389,14 +366,14 @@
 
 </ul>
 
-### [딕셔너리 메소드]()
+### [🔹딕셔너리 메소드]()
 <ul>
 <li>접근: d.get('a') </li>
 <li>삭제: value = d.pop('a)  </li>
 <li>목록: d.keys(), d.values(), d.items()  </li>
 </ul>
 
-### [딕셔너리 반복]()
+### [🔹딕셔너리 반복]()
 <ul>
 <li><b>for</b> key <b>in</b> d<b>:</b> #d.keys() <br>
   &ensp;print(key, key[value])<br>
@@ -405,10 +382,11 @@
   &ensp;print(key, value)<br>
 </li>
 </ul>
+<br>
 
 ## [📋14주차 강의&nbsp;-&nbsp;파일입출]()
 
-### [모듈(module)]()
+### [🔹모듈(module)]()
 <ul>
 <li> 연관된 함수와 변수를 모아 놓은 파일(.py) </li>
 <li> 모듈 가져오는 방법<br>
@@ -421,30 +399,31 @@
 - 사용자 정의, 표준 모듈, 외부 모듈 <br>
 - 사용자 정의 : 직접만든 파일 <br> ex) calc_area.py
 </ul>
-<br>
 
-### [파일]()
+
+### [🔹파일처리]()
 <ul>
-<li>파일모드: r(읽기), w(쓰기), a(추가) </li>
 <li><b>with</b> open('file_name', 'r') <b>as</b> f<b>:</b> <br>
-  &ensp; 파일 열고, 닫는 안전한 방법
+  &ensp; 파일 열고, 닫는 안전한 방법<br>
+  &ensp; 파일모드: r(읽기), w(쓰기), a(추가)<br>
   &ensp; encoding = 'utf-8' #cp949 
+</li>  
+<li><b>파일 쓰기</b> <br>
+  &ensp; write() : 모든 내용을 하나의 문자열로 반환<br>
+  &ensp; writelines() : 문자열 리스트를 쓰기<br>
+</li>  
+<li><b>파일 읽기</b> <br>
+  &ensp; write() : 모든 내용을 하나의 문자열로 반환<br>
+  &ensp; writelines() : 문자열 리스트를 쓰기<br>
+</li>  
+<li><b>데이터 정제</b> <br>
+  &ensp; 문자열.strip() : 공백문자(빈칸, \n 등) 제거<br>
+  &ensp; 문자열.split(구분자) : 구분자로 나누기<br>
 </li>  
 </ul>
 
-### [파일쓰기]()
-<ul>
-<li>write() : 모든 내용을 하나의 문자열로 반환 </li>
-<li>writelines() : 문자열 리스트를 쓰기 </li>
-</ul>
 
-### [데이터 정제]()
-<ul>
-<li>문자열.strip() : 공백문자(빈칸, \n 등) 제거 </li>
-<li>문자열.split(구분자) : 구분자로 나누기 </li>
-</ul>
-
-### [예외처리]()
+### [🔹예외처리]()
 <ul>
 <li> try: ~  <br>
 except(오류): ~ </li>
